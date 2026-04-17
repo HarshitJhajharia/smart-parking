@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // Since Vite proxies /api → localhost:5000, we just use /api
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: import.meta.env.VITE_API_URL + '/api',
 })
 
 // Interceptor: attach token from localStorage on every request
