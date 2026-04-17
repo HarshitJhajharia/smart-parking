@@ -4,7 +4,7 @@ A full-stack web application that allows users to find, book, and manage parking
 
 ## 🌐 Live Demo
 
-Frontend: [https://your-frontend.vercel.app](https://smart-parking-git-main-harshitjhajharias-projects.vercel.app/login)
+Frontend: https://smart-parking-git-main-harshitjhajharias-projects.vercel.app/
 Backend: https://smart-parking-backend-bhku.onrender.com
 
 ---
